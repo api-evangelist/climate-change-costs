@@ -1,0 +1,40 @@
+{
+    "name": "Climate Change Costs",
+    "description": "<p>Are the benefits of using carbon greater than the cost of climate change? To answer this question, an independent organization called DARA created a report in September, 2012 studying the economic costs of climate change. Much has been said about the moral, political, and social costs of Climate Change, but with Climate Change caused disease, droughts, storms, habitat changes and more there's a clear economic $$ cost as well.<\/p>",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/textLogoClimateChange.png",
+    "tags": [
+        "api provider",
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/climate-change-costs\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Climate Change Costs",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/textLogoClimateChange.png",
+            "humanURL": "http:\/\/www.climatechangecosts.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/climate-change-costs-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Documentation",
+            "url": "http:\/\/www.climatechangecosts.com\/docs\/"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.climatechangecosts.com\/"
+        }
+    ]
+}
